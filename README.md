@@ -1,4 +1,7 @@
 # ADM HOMEWORK 3
+
+This is a GitHub repository created to submit the third homework of the Algorithmic Methods for Data Mining (ADM) course for the MSc. in Data Science at the Sapienza University of Rome.
+
 ### GROUP 15
 Nihal Yaman Yılmaz - nihalyaman20@gmail.com<br>
 Matteo Sorrentini - sorrentini.2023085@studenti.uniroma1.it<br>
